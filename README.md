@@ -14,3 +14,6 @@
 
 ### Kani TTS-2 (English)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Kani_TTS_2_en.ipynb)
+
+### Flux Klein 4B Outpainting Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%204B%20Outpainting%20Colab.ipynb)
